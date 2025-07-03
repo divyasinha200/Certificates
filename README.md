@@ -3,7 +3,7 @@ This repository contains the certificates I have earned to build my skills as a 
 
 ## 📜 Certificates
 
-### 1️⃣ Microsoft Excel with ChatGPT & AI  
+### 1. Microsoft Excel with ChatGPT & AI  
 *Issued by:* Udemy  
 *Covers:* Advanced Excel functions, integrating AI tools like ChatGPT with Excel, automation techniques.
 
@@ -14,7 +14,7 @@ This repository contains the certificates I have earned to build my skills as a 
 
 ---
 
-### 2️⃣ Microsoft Power BI  
+### 2. Microsoft Power BI  
 *Issued by:* Udemy  
 *Covers:* Building dashboards, data visualization, Power Query, DAX formulas, and creating interactive reports.
 
@@ -26,7 +26,7 @@ This repository contains the certificates I have earned to build my skills as a 
 
 ---
 
-### 3️⃣ Data Analyst Bootcamp  
+### 3. Data Analyst Bootcamp  
 *Issued by:* Udemy  
 *Covers:* Core data analysis skills including Excel, SQL, Power BI, Python basics, data cleaning, and reporting.
 
@@ -37,9 +37,20 @@ This repository contains the certificates I have earned to build my skills as a 
 
 
 
+### 4.  Business Intelligence Analyst   
+*Issued by:* Udemy  
+*Covers:* Core Business analysis skills including  SQL, Tableau, Python basics, data cleaning, and reporting.
+
+### 📸 Certificate Previews
+
+###  Business Intelligence Analyst 
+![ Business Intelligence Analyst ](https://github.com/divyasinha200/Certificates/blob/main/Business%20Intelligence%20Analyst.png)
+
+
+
 ---
 
-### 4️⃣ TCS Certificate  
+### 5. TCS Certificate  
 *Issued by:* Tata Consultancy Services (TCS)  
 *Covers:* [*Summary:*  
 - Designed and developed data visualizations for Tata Consultancy Services, enabling clear and insightful data interpretation.  
