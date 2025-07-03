@@ -7,6 +7,12 @@ This repository contains the certificates I have earned to build my skills as a 
 *Issued by:* Udemy  
 *Covers:* Advanced Excel functions, integrating AI tools like ChatGPT with Excel, automation techniques.
 
+## 📸 Certificate Previews
+
+### Microsoft Excel with ChatGPT and AI 
+![Microsoft Excel with ChatGPT and AI ]()
+
+---
 ---
 
 ### 2️⃣ Microsoft Power BI  
