@@ -67,3 +67,21 @@ This repository contains the certificates I have earned to build my skills as a 
 
 ---
 
+
+
+### 6. Deloitte Certificate
+*Issued by Deloitte 
+**Covers:* [*Summary:* 
+-Analyzed real-world business datasets to uncover insights, identify trends, and create actionable recommendations.
+-Built interactive dashboards and visualizations using tools
+such as Excel/Tableau to communicate findings effectively. Developed skills in data cleaning, exploratory data analysis, and translating business problems into analytical tasks.
+-Built interactive dashboards and visualizations using tools
+such as Excel/Tableau to communicate findings effectively. Developed skills in data cleaning, exploratory data analysis, and translating business problems into analytical tasks.
+
+### 📸 Certificate Previews
+![Deloitte Certificate ]()
+
+
+
+
+
