@@ -79,8 +79,11 @@ such as Excel/Tableau to communicate findings effectively. Developed skills in d
 such as Excel/Tableau to communicate findings effectively. Developed skills in data cleaning, exploratory data analysis, and translating business problems into analytical tasks.
 
 ### 📸 Certificate Previews
-![Deloitte Certificate ]()
+![Deloitte Certificate ](https://github.com/divyasinha200/Certificates/blob/main/Deloitte%20Certificate.png)
 
+
+
+---
 
 
 
